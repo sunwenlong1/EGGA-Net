@@ -10,7 +10,7 @@ python ./code/LA_EGGA_train.py  #for LA training
 python ./code/ACDC_EGGA_train.py  #for ACDC training
 ``` 
 
-We provide all the EGGA model parameters trained on ACDC and LA. 链接: https://pan.baidu.com/s/1kGqRsEF4BX_yChKV3kMNVQ?pwd=hsjb 提取码: hsjb
+We provide all the EGGA model parameters trained on ACDC and LA. 链接: https://pan.baidu.com/s/1KVje2cl7Acth33juYCg7Sw?pwd=vqw5 提取码: vqw5
 
 
 To test a model,
