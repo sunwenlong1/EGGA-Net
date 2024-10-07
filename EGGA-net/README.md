@@ -24,8 +24,6 @@ python ./code/test_ACDC.py  #for ACDC testing
 
 ```
 
-## Acknowledgements
-Our code is largely based on [BCP](https://github.com/DeepMed-Lab-ECNU/BCP). Thanks for these authors for their valuable work, hope our work can also contribute to related research.
 
 ## Questions
 If you have any questions, welcome contact me at 'sunwenlong@hbut.edu.cn'
